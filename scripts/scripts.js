@@ -95,7 +95,7 @@ function createFlowersAndHearts() {
     background.innerHTML = '';
 
     // Flower emoji options with blue tints
-    const flowerEmojis = ["🌹", "🌷", "🌸", "💐", "🌼", "🏵️", "🌺", "🌻", "💮"];
+    const flowerEmojis = ["🌹", "🌷", "🌸", "💐", "🌼", "🏵️", "🌺", "🌻"];
     const flowerColors = ["#66B3FF", "#1E90FF", "#4682B4", "#00BFFF", "#87CEFA", "#6495ED"];
 
     // Create flowers
